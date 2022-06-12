@@ -4,11 +4,8 @@ numpy>=1.9.2
 matplotlib>=1.4.3
 pandas>=0.19
 scikit-learn>=0.18
-
-
-
-
-
+urllib.parse == 0.5.2
+pickle == 0.0.12
 
 
 
